@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head> 
+<title>     </title>
+</head>
+<body>
+
+
+body syntax
+<body style="background-color:purple; color:white;">
+<strong> = bold
+<marquee> = scroll
+<br> = change line or break
+<p>
+<img src ="">
+<h1 style="font-size:___px;> to <h6> = font size/my first heading (h1=36px)
+<li> = row(//block element)
+<p>= paragraph
+<pre> = as it is written with space and all
+<p title=____ > = howered on the sentence
+<p style= "font-style:">
+<p> <sub> = subscript(down) <sup> = up
+<p> <em>/<i> = emphasis/italic
+<p> <mark> = to highlight something
+<p> <del> = strike mark
+<p> <q> = quotation
+<p1> = to remove space fromm above
+<!--______--> = comments
+<!-- <p> ___ </p> --> = to hide comment
+<blockquote>
+<bdo dir="rtl"> = right to left
+<img src,width,height,alt
+<a href=""><a>= for link
+<div>
+<address> = adress in italic
+<blockquote>
+<questionmark>
+<cite>
+<abbr>
+<bdo>
+
+//inline element
+<span>
+<b>
+<i>
+<a>
+<img>
+<code>
+<cite> = for mapping url/image area
+<button>
+<input>
